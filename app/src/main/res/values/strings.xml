@@ -68,7 +68,6 @@
     <string name="change_password">Change Password</string>
     <string name="logout">Logout</string>
     <string name="delete_account">Delete Account</string>
-    <string name="rate_us">Rate Us</string>
     <string name="about">About</string>
     <string name="general">General</string>
     <string name="account">Account</string>
@@ -164,15 +163,15 @@
     <string name="please_allow_the_following_permissions">Please accept the following permission to allow kidsafe to function properly</string>
     <string name="about_message">KidSafe is a free and open source android parental control app which allows parents to keep their children\'s activity under control. KidSafe was developed as a graduation project by the members specified below</string>
     <string name="developers">Developers</string>
-    <string name="dev_1_master" translatable="false">Hazem Ahmed</string>
-    <string name="dev_2" translatable="false">Nada Elaraby</string>
-    <string name="dev_3" translatable="false">Ibrahim Elsawy</string>
-    <string name="dev_4" translatable="false">Fares Ahmed </string>
-    <string name="dev_5" translatable="false">Mostafa Abdelhamed</string>
+    <string name="dev_1_master">Hazem Ahmed</string>
+    <string name="dev_2">Nada Elaraby</string>
+    <string name="dev_3">Ibrahim Elsawy</string>
+    <string name="dev_4">Fares Ahmed</string>
+    <string name="dev_5">Mostafa Abdelhamed</string>
     <string name="supervisor">Supervisor</string>
-    <string name="dr_zahraa_youssef" translatable="false">Dr. Zahraa Youssef</string>
-    <string name="_1_0">1.0</string>
+    <string name="dr_zahraa_youssef">Dr. Zahraa Youssef</string>
     <string name="select_app_language">Select kidsafe\'s language</string>
+    <string name="version_number">1.0</string>
     <string name="enter_your_old_and_new_passowrd">Enter your old and new password</string>
     <string name="old_password">Old password</string>
     <string name="new_password">New password</string>
